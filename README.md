@@ -2,7 +2,8 @@
 
 # Título del README
 
-[Acerca de](#acerca_de)   -   [Investigación](#investigación)   -   [Desarrollo](#desarrollo)   -   [Referencias](#uso)
+[Acerca de](#acerca_de)    🔹    [Investigación](#investigación)    🔹    [Desarrollo](#desarrollo)    🔹    [Referencias](#uso)
+
 
 
   
