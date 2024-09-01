@@ -29,6 +29,7 @@ Pendiente incluir información
 
 Para el desarrollo del proyecto se utiliza un conjunto de datos que combina datos reales y datos sintéticos que contribuye a la precisión del modelo, se utilizan 77% datos generados y 23% de los datos recolectados directamente de usuarios a través de una encuesta en una plataforma web.
 
+Pendiente complementar con resultado de análisis descriptivo
 
 
 # **:hammer_and_pick: Desarrollo**
