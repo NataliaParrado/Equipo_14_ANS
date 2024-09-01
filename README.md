@@ -13,6 +13,8 @@ Este proyecto aborda este desafío mediante la incorporación de técnicas de ap
 
 # **:open_file_folder: Investigación**
 
+Pendiente incluir información
+
 
 # **:bar_chart: Sobre los datos**
 
@@ -22,4 +24,12 @@ Para el desarrollo del proyecto se utiliza un conjunto de datos que combina dato
 
 Para este desarrollo se propone utilizar algoritmos de clustering para realizar la segmentación de las personas en diferentes categorías de obesidad.
 
+<details>
+  <summary>K-means</summary>
+  <p>Puede ser un método adecuado en este contexto por su simplicidad y eficiencia computacional, así como su capacidad de manejar datos categóricos y continuos..</p>
+</details>
+
+
 # **:page_with_curl: Referencias**
+
+Pendiente incluir información
