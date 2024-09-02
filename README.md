@@ -85,4 +85,9 @@ Para este desarrollo se propone utilizar algoritmos de clustering para realizar 
 
 # **:page_with_curl: Referencias**
 
-Pendiente incluir información
+1. Estimation of Obesity Levels Based On Eating Habits and Physical Condition . (2019). UCI Machine Learning Repository. https://doi.org/10.24432/C5H31Z.
+2. Organización Mundial de la Salud. (2023). Obesidad y sobrepeso.  https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight
+3. Organización Panamericana de la Salud. (2022). Obesidad: una preocupación de salud pública. Prevención de la obesidad - OPS/OMS | Organización Panamericana de la Salud (paho.org)
+4. Gómez, M. A., & Henao, H. (2020). Aplicación de técnicas de clustering para la detección de obesidad en datos de salud en Colombia. Revista Colombiana de Estadística, 43(2), 209-225. Las variables más influyentes en la obesidad: un análisis desde la minería de datos (scielo.cl)
+5. Agamez Julio, Wilmer Jesús. (2022). Predicción de riesgos en salud, para personas con obesidad empleando técnicas de aprendizaje de máquinas. Predicción de riesgos en salud, para personas con obesidad empleando técnicas de aprendizaje de maquinas (unal.edu.co)
+
