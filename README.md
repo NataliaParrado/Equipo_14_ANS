@@ -20,16 +20,45 @@ Este proyecto aborda este desafío mediante la incorporación de técnicas de ap
 
 # **:open_file_folder: Investigación**
 
-Pendiente incluir información
+Sobre este tema hay varios estudios y aplicaciones, resaltamos dos de interés aplicadas en América Latina
 
+<details>
+  <summary>Aplicación de técnicas de clustering para la detección de obesidad en datos de salud en Colombia [3]</summary>
+  <p>Este estudio aplica técnicas de clustering, como K-means y clustering jerárquico, para analizar datos de salud en Colombia y clasificar a los individuos en diferentes niveles de obesidad. El enfoque permite una mejor comprensión de los patrones de obesidad en la población colombiana y facilita la formulación de estrategias de intervención localizadas.</p>
+</details>
 
+<details>
+  <summary>Predicción de riesgos en salud, para personas con obesidad empleando técnicas de aprendizaje de máquinas [4]</summary>
+  <p>Este artículo investiga el uso de técnicas de aprendizaje no supervisado, incluyendo PCA y clustering, para analizar datos de obesidad en una muestra representativa de la población colombiana. El estudio muestra cómo estas técnicas pueden mejorar la identificación de patrones y tendencias relacionadas con la obesidad.</p>
+</details>
 
 
 # **:bar_chart: Sobre los datos**
 
 Para el desarrollo del proyecto se utiliza un conjunto de datos que combina datos reales y datos sintéticos que contribuye a la precisión del modelo, se utilizan 77% datos generados y 23% de los datos recolectados directamente de usuarios a través de una encuesta en una plataforma web.
 
-Pendiente complementar con resultado de análisis descriptivo
+Los datos utilizados en este análisis provienen del dataset titulado "Estimation of Obesity Levels Based on Eating Habits and Physical Condition", disponible en el UCI Machine Learning Repository. Este conjunto de datos contiene información sobre los niveles de obesidad de individuos en México, Perú y Colombia, basado en sus hábitos alimenticios y condiciones físicas. 
+El dataset consta de 2111 registros y 17 variables, de las cuales 16 son características del individuo que lo clasifican en un nivel de obesidad registrado en la variable “NObeyesdad” A continuación se describen las variables:
+
+**Variables Categóricas:**
+Gender: Género del individuo (Masculino/Femenino).
+family_history_with_overweight: Indica si el individuo tiene antecedentes familiares de sobrepeso (Sí/No).
+FAVC: Indica si el individuo consume alimentos altos en calorías frecuentemente (Sí/No).
+CAEC: Indica si el individuo consume alimentos entre comidas (No/Sí).
+SMOKE: Indica si el individuo fuma (Sí/No).
+SCC: Indica si el individuo monitorea las calorías que consume diariamente (Sí/No).
+CALC: Frecuencia con la que el individuo consume alcohol (Nunca/Rara vez/Frecuentemente/Siempre).
+MTRANS: Medio de transporte que el individuo utiliza normalmente (Automóvil/Moto/Bicicleta/A pie/Transporte público).
+NObeyesdad: Nivel de obesidad, categorizado en 'Insufficient_Weight', 'Normal_Weight', 'Overweight_Level_I', 'Overweight_Level_II', 'Obesity_Type_I', 'Obesity_Type_II' y 'Obesity_Type_III'.
+
+**Variables Continuas:**
+Age: Edad del individuo (en años).
+Height: Altura del individuo (en metros).
+Weight: Peso del individuo (en kilogramos).
+NCP: Número de comidas principales que el individuo consume diariamente.
+CH2O: Cantidad de agua que el individuo consume diariamente (en litros).
+FAF: Frecuencia de actividad física del individuo (en días por semana).
+TUE: Tiempo de uso de dispositivos tecnológicos por día (en horas).
 
 
 # **:hammer_and_pick: Desarrollo**
