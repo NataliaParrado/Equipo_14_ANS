@@ -41,7 +41,7 @@ Los datos utilizados en este análisis provienen del dataset titulado "Estimatio
 El dataset consta de 2111 registros y 17 variables, de las cuales 16 son características del individuo que lo clasifican en un nivel de obesidad registrado en la variable “NObeyesdad” A continuación se describen las variables:
 
 <details>
-  <summary>**Variables Categóricas:**</summary>
+  <summary>Variables Categóricas</summary>
   <p>Gender: Género del individuo (Masculino/Femenino).
     
 family_history_with_overweight: Indica si el individuo tiene antecedentes familiares de sobrepeso (Sí/No).
@@ -63,7 +63,7 @@ NObeyesdad: Nivel de obesidad, categorizado en 'Insufficient_Weight', 'Normal_We
 </details>
 
 <details>
-  <summary>**Variables Continuas:**</summary>
+  <summary>Variables Continuas</summary>
   <p>Age: Edad del individuo (en años).
     
 Height: Altura del individuo (en metros).
