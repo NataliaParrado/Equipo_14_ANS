@@ -1,15 +1,6 @@
 # Estimación de Niveles de Obesidad en América Latina: Un Enfoque de Aprendizaje No Supervisado
 
 
-<div style="text-align: center;">
-  <a href="#acerca_de">Acerca de</a>    🔹    
-  <a href="#investigación">Investigación</a>    🔹    
-  <a href="#desarrollo">Desarrollo</a>    🔹    
-  <a href="#uso">Referencias</a>
-</div>
-
-
-
   
 # **:books: Acerca de**
 
