@@ -40,25 +40,45 @@ Para el desarrollo del proyecto se utiliza un conjunto de datos que combina dato
 Los datos utilizados en este análisis provienen del dataset titulado "Estimation of Obesity Levels Based on Eating Habits and Physical Condition", disponible en el UCI Machine Learning Repository. Este conjunto de datos contiene información sobre los niveles de obesidad de individuos en México, Perú y Colombia, basado en sus hábitos alimenticios y condiciones físicas. 
 El dataset consta de 2111 registros y 17 variables, de las cuales 16 son características del individuo que lo clasifican en un nivel de obesidad registrado en la variable “NObeyesdad” A continuación se describen las variables:
 
-**Variables Categóricas:**
-Gender: Género del individuo (Masculino/Femenino).
+<details>
+  <summary>**Variables Categóricas:**</summary>
+  <p>Gender: Género del individuo (Masculino/Femenino).
+    
 family_history_with_overweight: Indica si el individuo tiene antecedentes familiares de sobrepeso (Sí/No).
-FAVC: Indica si el individuo consume alimentos altos en calorías frecuentemente (Sí/No).
-CAEC: Indica si el individuo consume alimentos entre comidas (No/Sí).
-SMOKE: Indica si el individuo fuma (Sí/No).
-SCC: Indica si el individuo monitorea las calorías que consume diariamente (Sí/No).
-CALC: Frecuencia con la que el individuo consume alcohol (Nunca/Rara vez/Frecuentemente/Siempre).
-MTRANS: Medio de transporte que el individuo utiliza normalmente (Automóvil/Moto/Bicicleta/A pie/Transporte público).
-NObeyesdad: Nivel de obesidad, categorizado en 'Insufficient_Weight', 'Normal_Weight', 'Overweight_Level_I', 'Overweight_Level_II', 'Obesity_Type_I', 'Obesity_Type_II' y 'Obesity_Type_III'.
 
-**Variables Continuas:**
-Age: Edad del individuo (en años).
+FAVC: Indica si el individuo consume alimentos altos en calorías frecuentemente (Sí/No).
+
+CAEC: Indica si el individuo consume alimentos entre comidas (No/Sí).
+
+SMOKE: Indica si el individuo fuma (Sí/No).
+
+SCC: Indica si el individuo monitorea las calorías que consume diariamente (Sí/No).
+
+CALC: Frecuencia con la que el individuo consume alcohol (Nunca/Rara vez/Frecuentemente/Siempre).
+
+MTRANS: Medio de transporte que el individuo utiliza normalmente (Automóvil/Moto/Bicicleta/A pie/Transporte público).
+
+NObeyesdad: Nivel de obesidad, categorizado en 'Insufficient_Weight', 'Normal_Weight', 'Overweight_Level_I', 'Overweight_Level_II', 'Obesity_Type_I', 'Obesity_Type_II' y 'Obesity_Type_III'.
+</p>
+</details>
+
+<details>
+  <summary>**Variables Continuas:**</summary>
+  <p>Age: Edad del individuo (en años).
+    
 Height: Altura del individuo (en metros).
+
 Weight: Peso del individuo (en kilogramos).
+
 NCP: Número de comidas principales que el individuo consume diariamente.
+
 CH2O: Cantidad de agua que el individuo consume diariamente (en litros).
+
 FAF: Frecuencia de actividad física del individuo (en días por semana).
-TUE: Tiempo de uso de dispositivos tecnológicos por día (en horas).
+
+TUE: Tiempo de uso de dispositivos tecnológicos por día (en horas).</p>
+</details>
+
 
 
 # **:hammer_and_pick: Desarrollo**
