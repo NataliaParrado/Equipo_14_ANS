@@ -95,7 +95,11 @@ Para este desarrollo se propone utilizar algoritmos de clustering para realizar 
 
 # **:white_check_mark: Resultados**
 
-Se implementaron los tres algoritmos propuestos y de esta forma se observaron y contrastaron diferentes enfoques para producir las agrupaciones e implícitamente intentar identificar patrones sobre estos mismos. Cabe destacar que los resultados no fueron los mejores, pero se entiende que la mayor razón de estos es por la naturaleza que tiene los datos recopilados ya que más del 505 de estos datos son sintéticos y producidos de manera sub-muestreada lo cual podría implicar que se solapen ciertas propiedades o características de cada agrupación. Como resultado de este proyecto se abre la oportunidad de seguir optimizando y profundizando en el análisis, y los resultados obtenidos hasta ahora nos motivan a continuar con esta exploración de datos y mejora de los métodos implementados.
+Se implementaron los tres algoritmos propuestos y de esta forma se observaron y contrastaron diferentes enfoques para producir las agrupaciones e implícitamente intentar identificar patrones sobre estos mismos.
+
+Cabe destacar que los resultados no fueron los mejores, pero se entiende que la mayor razón de estos es por la naturaleza que tiene los datos recopilados ya que más del 505 de estos datos son sintéticos y producidos de manera sub-muestreada lo cual podría implicar que se solapen ciertas propiedades o características de cada agrupación. 
+
+Como resultado de este proyecto se abre la oportunidad de seguir optimizando y profundizando en el análisis, y los resultados obtenidos hasta ahora nos motivan a continuar con esta exploración de datos y mejora de los métodos implementados.
 
 
 
